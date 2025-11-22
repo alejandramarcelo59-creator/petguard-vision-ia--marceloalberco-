@@ -1,0 +1,9 @@
+petguard-vision-ia-<apellidos>/
+│
+├── src/
+│   └── analizar_imagen.py
+│
+├── assets/
+│   └── mascota.jpg     (tu imagen)
+│
+└── README.md
